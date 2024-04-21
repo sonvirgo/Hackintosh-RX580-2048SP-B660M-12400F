@@ -1,0 +1,2 @@
+# Hackintosh-RX580-2048SP-B660M-12400F
+Flash RX580 2048SP to good
